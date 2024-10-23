@@ -1,0 +1,5 @@
+env/
+dataset/
+models/
+**/__pycache__/
+*.log
